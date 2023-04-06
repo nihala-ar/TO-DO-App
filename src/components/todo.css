@@ -1,0 +1,51 @@
+.todo-container{
+    background-color: dimgrey;
+    width: 90vw;
+    margin: 2em auto;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.header{
+    font-size: 2em;
+    text-align: center;
+}
+
+.input-container{
+    background-color: dimgrey;
+    border: 3px solid black;
+    border-radius: 15px;
+    padding: 0.5em;
+    text-align: center;
+}
+
+.input{
+    font-size: 1.5em;
+    font-weight: bold;
+    border-radius: 1em;
+    padding: .5em;
+    margin: 1em;
+    width: 80%;
+}
+
+.add-btn{
+    border-radius: 5px;
+    font-size: 1em;
+    margin: 2px;
+    padding: 5px;
+}
+
+.task{
+    border: 2px solid black ;
+    margin: 5px;
+    color: white;
+    padding: 10px;
+    font-style: italic;
+}
+
+.del-btn{
+    border-radius: 5px;
+    font-size: 1em;
+    margin: 2px;
+
+}
